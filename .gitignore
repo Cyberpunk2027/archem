@@ -8,6 +8,8 @@
 *.so
 *.pyc
 *.iml
+script.min.js
+style.css
 
 # Packages #
 ############
